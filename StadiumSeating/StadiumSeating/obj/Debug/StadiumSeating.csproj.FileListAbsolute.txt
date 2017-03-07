@@ -1,0 +1,31 @@
+G:\C# practice exercises\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe.config
+G:\C# practice exercises\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe
+G:\C# practice exercises\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.pdb
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csprojResolveAssemblyReference.cache
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\MainWindow.g.cs
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\App.g.cs
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating_MarkupCompile.cache
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating_MarkupCompile.lref
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\MainWindow.baml
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.g.resources
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.Properties.Resources.resources
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csproj.GenerateResource.Cache
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.exe
+G:\C# practice exercises\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.pdb
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe.config
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.exe
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.pdb
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csprojResolveAssemblyReference.cache
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\MainWindow.g.cs
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\App.g.cs
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating_MarkupCompile.cache
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating_MarkupCompile.lref
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.pdb
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\MainWindow.baml
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.g.resources
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.Properties.Resources.resources
+G:\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.csproj.GenerateResource.Cache
+\\FS04D\Stu4\Home\Oomotayobenson6276\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\bin\Debug\StadiumSeating.exe.config
+\\FS04D\Stu4\Home\Oomotayobenson6276\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.exe
+\\FS04D\Stu4\Home\Oomotayobenson6276\C# practice exercises\Week 2 C# assignments\StadiumSeating\StadiumSeating\obj\Debug\StadiumSeating.pdb
